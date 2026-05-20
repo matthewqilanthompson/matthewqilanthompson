@@ -29,6 +29,8 @@ I enjoy building automations to solve repetitive problems and writing scripts th
 | Summer Research Intern (REU) | Maryland Sea Grant | Selected from 400+ applicants; quantified marine microbial abundance across depth gradients in R & Excel; extended into an Honors thesis |
 | Environmental Research Presenter | National Geospatial-Intelligence Agency conferences | Research projects on coral-reef conservation and climate-driven biodiversity; selected to present at the ESRI and GeoSpectrum conferences (2022–23) |
 
+*Full work history — including laboratory and mentoring roles — on [LinkedIn](https://www.linkedin.com/in/matthewqilanthompson/).*
+
 ---
 
 ## Academic Projects
