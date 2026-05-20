@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthewqilanthompson.work@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlueFlashX1/Data-Science-Portfolio)
 
-## Data Science MS Student (Bio Background) | R, Python & SQL for Healthcare/Biology Data | Python, AI & CLI for Workflow Automation
+## Data Analyst · Healthcare & Life Sciences | Python · R · SQL | M.S. Data Science, Biology Background
 
 Recently earned my M.S. in Data Science from the University of Arizona (May 2026), with a B.S. in Biology and a Data Science minor. I combine analytical skills with biological domain expertise, with particular interest in healthcare, life sciences, and AI-driven applications.
 
@@ -86,7 +86,7 @@ Other interests:
 - **Domain expertise**: Biology background that provides strong foundation for analyzing life sciences and healthcare data
 - **Proven results**: 5th/40 placement in ML competition (ROC AUC 0.90), database systems handling 53K+ encounters, statistical analyses across multiple domains
 
-I combine analytical skills with a Biology background to solve data problems. I've built predictive models achieving ROC AUC 0.90 (5th/40 in class competition), designed database systems handling 53K+ patient encounters, and created statistical visualizations across multiple domains. My Biology background provides domain expertise that enhances analysis of life sciences and healthcare data. Currently pursuing my M.S. in Data Science, I'm seeking roles where I can apply these skills to deliver value while continuing to grow. While I'm particularly interested in healthcare and life sciences applications, I'm open to opportunities across industries.
+I combine analytical skills with a Biology background to solve data problems. I've built predictive models achieving ROC AUC 0.90 (5th/40 in class competition), designed database systems handling 53K+ patient encounters, and created statistical visualizations across multiple domains. My Biology background provides domain expertise that enhances analysis of life sciences and healthcare data. Having recently completed my M.S. in Data Science, I'm seeking roles where I can apply these skills to deliver value while continuing to grow. While I'm particularly interested in healthcare and life sciences applications, I'm open to opportunities across industries.
 
 **Work style**: I prefer working independently and value efficiency, but I collaborate well when needed.
 
