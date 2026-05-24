@@ -8,7 +8,7 @@
 
 My background is hands-on quantitative research with strong fluency in R, Python, and SQL across the full data lifecycle — turning messy data into clear findings, building pipelines, and automating repetitive work.
 
-I enjoy building automations and writing scripts that make workflows more efficient, whether that's data pipelines, ML experiments, or personal productivity tools.
+I enjoy building automations and writing scripts that make workflows more efficient, whether that's data pipelines, machine learning (ML) experiments, or personal productivity tools.
 
 ---
 
@@ -25,8 +25,8 @@ I enjoy building automations and writing scripts that make workflows more effici
 
 | Role | Organization | Focus |
 | ---- | ------------ | ----- |
-| Post-Baccalaureate Trainee | Oklahoma State University (NSF ON-RaMP) | 1 yr independent research: statistical modeling in R (regression, ANOVA, repeatability) on grasshopper coloration & behavior; built a Python automation script; presented at SICB 2024 |
-| Summer Research Intern (REU) | Maryland Sea Grant | Selected from 400+ applicants; quantified marine microbial abundance across depth gradients in R & Excel; extended into an Honors thesis |
+| Post-Baccalaureate Trainee | Oklahoma State University — National Science Foundation (NSF) ON-RaMP research training program | 1 year of independent research: statistical modeling in R (regression, analysis of variance, repeatability) on grasshopper coloration & behavior; built a Python automation script; presented at the 2024 Society for Integrative and Comparative Biology (SICB) conference |
+| Summer Research Intern — NSF Research Experiences for Undergraduates (REU) | Maryland Sea Grant | Selected from 400+ applicants; quantified marine microbial abundance across depth gradients in R & Excel; extended into an Honors thesis |
 
 *Full work history on [LinkedIn](https://www.linkedin.com/in/matthewqilanthompson/).*
 
@@ -38,12 +38,12 @@ These projects demonstrate my data science capabilities across healthcare analyt
 
 | Project                                                                                                                                                   | What I Applied                                                                                                                                      | Tech                 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| [**Healthcare Readmission Prediction**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/data-science/foundation-of-data-science) | Built a Random Forest classifier for 30-day hospital readmission risk; ROC AUC 0.90 across 125,958 synthetic EHR encounters, after comparing 9 algorithms       | Python, Scikit-learn |
-| [**EHR Analytics Database**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/database-systems/sql-nosql-databases-info579)       | Designed 3NF normalized schemas and created 14 analytical SQL reports analyzing 1,171 patients and 53,346 encounters                                | MySQL, Python        |
-| [**Taxonomic ML Classification**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/data-science/data-mining-final-project)        | Applied SHAP analysis to identify evolutionary traits predicting animal taxonomy across 1,087 families                                              | Python, SHAP         |
+| [**Healthcare Readmission Prediction**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/data-science/foundation-of-data-science) | Built a Random Forest classifier for 30-day hospital readmission risk; ROC-AUC of 0.90 (a classifier accuracy score where 1.0 is perfect) across 125,958 synthetic electronic health record (EHR) encounters, after comparing 9 algorithms | Python, Scikit-learn |
+| [**EHR Analytics Database**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/database-systems/sql-nosql-databases-info579)       | Designed third normal form (3NF) database schemas and created 14 analytical SQL reports analyzing 1,171 patients and 53,346 encounters              | MySQL, Python        |
+| [**Taxonomic Machine Learning Classification**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/data-science/data-mining-final-project) | Applied SHAP (SHapley Additive exPlanations — a machine-learning model-explainability technique) to identify evolutionary traits predicting animal taxonomy across 1,087 families | Python, SHAP         |
 | [**R Visualization Portfolio**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/r-analytics/data-visualization-portfolio)        | Created comprehensive visualizations across wildlife ecology, occupational safety, and housing economics using ggplot2, including alluvial diagrams | R, ggplot2           |
-| [**Multi-Label Emotion Classification**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/deep-learning/emotion-classification-info557) | Built Conv1D + 5-seed ensemble CNN for 14-class GoEmotions text classification; placed 8th/15 on test (F1 0.672) with the 3rd-tightest dev→test gap on the leaderboard | Python, Keras, Hugging Face |
-| [**AI4HC Capstone: ER Simulator Poster**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/capstone/ai4hc-info698) | Team capstone at UA AI Core (healthcare-AI ER simulator). My role: designed the team's iShowcase poster (HTML/CSS, light/dark variants) and wrote a Python print-export pipeline; [view live](https://blueflashx1.github.io/Data-Science-Portfolio/projects/capstone/ai4hc-info698/index_v1.html) | HTML, CSS, Python |
+| [**Multi-Label Emotion Classification**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/deep-learning/emotion-classification-info557) | Built a 5-seed ensemble of 1D convolutional neural networks (Conv1D / CNN) for 14-class GoEmotions text classification; placed 8th/15 on test set (F1-score 0.672 — a balanced precision/recall metric, 1.0 = perfect) with the 3rd-tightest dev→test gap on the leaderboard | Python, Keras, Hugging Face |
+| [**AI for Healthcare Capstone: Emergency Room Simulator Poster**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/capstone/ai4hc-info698) | Team capstone at the University of Arizona AI Core, AI for Healthcare program (AI4HC) — built a patient-flow simulator for an emergency room. My role: designed the team's iShowcase poster (HTML/CSS, light/dark variants) and wrote a Python print-export pipeline; [view live](https://matthewqilanthompson.github.io/Data-Science-Portfolio/projects/capstone/ai4hc-info698/index_v1.html) | HTML, CSS, Python |
 
 ---
 
@@ -52,10 +52,10 @@ These projects demonstrate my data science capabilities across healthcare analyt
 | Category             | Tools & Applications                                                                                                                        |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Languages**        | Python (ML pipelines, data processing) • R (statistical analysis, visualization) • SQL (complex queries, database design)                   |
-| **Machine Learning** | Scikit-learn (classification, model comparison) • Random Forest (readmission prediction, ROC AUC 0.90) • SHAP (model explainability)        |
+| **Machine Learning** | Scikit-learn (classification, model comparison) • Random Forest (readmission prediction, ROC-AUC 0.90) • SHAP (model explainability)        |
 | **Data Analysis**    | Pandas (EHR data processing, 125K+ encounters) • NumPy (numerical computing) • tidyverse (data transformation, reproducible workflows)      |
 | **Visualization**    | ggplot2 (advanced plots, alluvial diagrams) • Matplotlib (data visualization)                                                               |
-| **Databases**        | MySQL (3NF schema design, multi-table joins) • Database Design (1,171 patients, 53K encounters) • CTEs, window functions, temporal analysis |
+| **Databases**        | MySQL (3NF schema design, multi-table joins) • Database Design (1,171 patients, 53K encounters) • Common Table Expressions (CTEs), window functions, temporal analysis |
 | **Development**      | Git (version control) • Jupyter (interactive analysis) • RMarkdown (reproducible research, automated reporting)                             |
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -72,7 +72,7 @@ These projects demonstrate my data science capabilities across healthcare analyt
 
 ## What I'm Looking For
 
-Data roles where rigor and adaptability matter — analyst, science, BI, or research-adjacent positions across industries. Open to opportunities where research instinct + a versatile toolkit make a difference.
+Data roles where rigor and adaptability matter — analyst, science, business intelligence (BI), or research-adjacent positions across industries. Open to opportunities where research instinct + a versatile toolkit make a difference.
 
 **Domain interests**: Life sciences, healthcare, environmental & ecological data, climate & conservation — though I'm equally at home learning a new domain from scratch.
 
