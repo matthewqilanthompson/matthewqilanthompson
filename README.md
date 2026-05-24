@@ -70,21 +70,6 @@ These projects demonstrate my data science capabilities across healthcare analyt
 
 ---
 
-## Beyond Coursework
-
-I enjoy building tools and automation outside of class:
-
-| Project                                                                       | Description                                                                                                      | Tech         |
-| ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------ |
-| [**Multi Roblox Manager**](https://github.com/matthewqilanthompson/multi-roblox-macos) | Enhanced fork with +7,400 lines: account switcher, macOS Keychain integration, resource monitor, friends manager | Go, Fyne GUI |
-
-Other interests:
-
-- Personal scripts for PC optimization and scheduled task automation
-- Drawn to programming because it lets me solve problems efficiently
-
----
-
 ## What I'm Looking For
 
 **Target**: Entry-level **Data Analyst** roles (open to Junior Data Scientist opportunities)
