@@ -4,11 +4,11 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthewqilanthompson.work@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matthewqilanthompson/Data-Science-Portfolio)
 
-## Data Analyst · Environmental & Life-Sciences Data | R · Python · SQL | M.S. Data Science, Biology Background
+## Data Science · Biology Background · R · Python · SQL · M.S. University of Arizona
 
-Recently earned my M.S. in Data Science from the University of Arizona (May 2026), building on a B.S. in Biology. My background is hands-on quantitative research in the biological and environmental sciences, using statistical modeling in R to turn messy research data into clear findings, with Python for automating repetitive analysis work.
+Recently earned my M.S. in Data Science from the University of Arizona (May 2026), building on a B.S. in Biology. My background is hands-on quantitative research with strong fluency in R, Python, and SQL across the full data lifecycle — turning messy data into clear findings, building pipelines, and automating repetitive work.
 
-I enjoy building automations to solve repetitive problems and writing scripts that make workflows more efficient, whether that's data pipelines or personal productivity tools.
+I enjoy building automations and writing scripts that make workflows more efficient, whether that's data pipelines, ML experiments, or personal productivity tools.
 
 ---
 
