@@ -40,7 +40,7 @@ These projects demonstrate my data science capabilities across healthcare analyt
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
 | [**Healthcare Readmission Prediction**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/data-science/foundation-of-data-science) | Built a Random Forest classifier for 30-day hospital readmission risk on 587,801 synthetic electronic health record (EHR) training rows; scored ROC AUC 0.901 on the dev-phase leaderboard (5th of 40) and 0.858 on the final held-out test (13th of 35) after comparing 9 algorithms. ROC AUC is a classifier ranking score where 1.0 is perfect. | Python, Scikit-learn |
 | [**Healthcare Analytics with SQL**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/database-systems/sql-nosql-databases-info579) | Designed third normal form (3NF) database schemas and wrote 14 analytical SQL reports across 1,171 patients and 53,346 encounters; end-to-end reproducible via Docker | MySQL, Python |
-| [**Trait-Based Animal Classification**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/data-science/data-mining-final-project) | Used SHAP (SHapley Additive exPlanations), a machine-learning model-explainability technique, to identify evolutionary traits predicting animal taxonomy across 1,087 families | Python, SHAP |
+| [**Trait-Based Prediction of Animal Taxa**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/data-science/data-mining-final-project) | Used SHAP (SHapley Additive exPlanations), a machine-learning model-explainability technique, to identify evolutionary traits predicting animal taxonomy across 1,087 families | Python, SHAP |
 | [**Data Visualization Portfolio**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/r-analytics/data-visualization-portfolio) | Built statistical visualizations across wildlife ecology, occupational safety, and housing economics using ggplot2, including alluvial diagrams and faceted area plots | R, ggplot2 |
 | [**Multi-Label Emotion Classification**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/deep-learning/emotion-classification-info557) | Built a 5-seed ensemble of 1D convolutional neural networks (Conv1D / CNN) for 14-class GoEmotions text classification; placed 8th/15 on test set with an F1-score of 0.672 (a balanced precision/recall metric where 1.0 is perfect) and the 3rd-tightest dev-to-test gap on the leaderboard | Python, Keras, Hugging Face |
 | [**AI4HC Capstone: ER Simulator Showcase Poster**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/capstone/ai4hc-info698) | Team capstone at the University of Arizona AI Core, AI for Healthcare program (AI4HC), building an emergency-room patient-flow simulator. Designed the team's iShowcase poster (HTML/CSS, light/dark variants) and built a Python print-export pipeline; [view live](https://matthewqilanthompson.github.io/Data-Science-Portfolio/projects/capstone/ai4hc-info698/index_v1.html) | HTML, CSS, Python |
@@ -72,7 +72,7 @@ These projects demonstrate my data science capabilities across healthcare analyt
 
 ## What I'm Looking For
 
-Data roles where rigor and adaptability matter: analyst, science, business intelligence (BI), or research-adjacent positions across industries. Open to opportunities where research instinct and a versatile toolkit make a difference.
+Data roles where rigor and adaptability matter: analyst, data science, business intelligence (BI), or applied-research positions. Open to opportunities where research instinct and a versatile toolkit make a difference.
 
 **Domain interests**: Life sciences, healthcare, environmental & ecological data, and climate & conservation, though I'm equally at home learning a new domain from scratch.
 
@@ -84,9 +84,7 @@ Data roles where rigor and adaptability matter: analyst, science, business intel
 
 ---
 
-## Let's Connect
-
-I'm open to data roles where I can apply this toolkit and keep growing as a data professional.
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matthewqilanthompson/">
