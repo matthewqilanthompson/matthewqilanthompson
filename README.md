@@ -72,7 +72,7 @@ These projects demonstrate my data science capabilities across healthcare analyt
 
 ## What I'm Looking For
 
-Data roles where rigor and adaptability matter: analyst, data science, business intelligence (BI), or applied-research positions. Open to opportunities where research instinct and a versatile toolkit make a difference.
+Data roles where rigor and adaptability matter: analyst, data science, business intelligence (BI), or research-adjacent positions. Open to opportunities where research instinct and a versatile toolkit make a difference.
 
 **Domain interests**: Life sciences, healthcare, environmental & ecological data, and climate & conservation, though I'm equally at home learning a new domain from scratch.
 
