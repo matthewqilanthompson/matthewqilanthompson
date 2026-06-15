@@ -4,9 +4,11 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthewqilanthompson.work@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matthewqilanthompson/Data-Science-Portfolio)
 
-## Data Science · Biology Background · R · Python · SQL · M.S. University of Arizona
+## Data Science · Biology Background · R · Python · SQL · Spatial/GIS · M.S. University of Arizona
 
 My background is hands-on quantitative research with strong fluency in R, Python, and SQL across the full data lifecycle: turning messy data into clear findings, writing automation scripts, and making workflows more efficient.
+
+I also have a spatial/GIS side, presenting ArcGIS work on coral reefs and biodiversity at two national GIS conferences.
 
 I enjoy building automations and writing scripts that make workflows more efficient, whether that's data-handling scripts, machine learning (ML) experiments, or personal productivity tools.
 
@@ -29,6 +31,16 @@ I enjoy building automations and writing scripts that make workflows more effici
 | Summer Research Intern, NSF Research Experiences for Undergraduates (REU) | Maryland Sea Grant | Selected from 400+ applicants; quantified marine microbial abundance across depth gradients in R & Excel; extended into an Honors thesis |
 
 *Full work history on [LinkedIn](https://www.linkedin.com/in/matthewqilanthompson/).*
+
+---
+
+## Presentations
+
+| Venue | Work |
+| ----- | ---- |
+| 2024 Society for Integrative and Comparative Biology (SICB) Conference | Poster on temperature and developmental-environment effects on grasshopper coloration and behavior |
+| 2023 Esri Federal GIS Conference (Washington, D.C.) | ArcGIS Pro poster on how ocean temperature and climate trends affect coral reef ecosystems |
+| 2022 NGA GeoSpectrum Conference | ArcGIS StoryMap on climate change's impact on biodiversity |
 
 ---
 
@@ -55,6 +67,7 @@ These projects demonstrate my data science capabilities across healthcare analyt
 | **Machine Learning** | Scikit-learn (classification, model comparison) • Random Forest (readmission prediction, ROC AUC 0.858 on held-out test, 0.901 on dev) • SHAP / SHapley Additive exPlanations (model explainability) |
 | **Data Analysis**    | Pandas (EHR data processing, 587K+ training rows / 125K+ dev rows) • NumPy (numerical computing) • tidyverse (data transformation, reproducible workflows)      |
 | **Visualization**    | ggplot2 (advanced plots, alluvial diagrams) • Matplotlib (data visualization)                                                               |
+| **Spatial / GIS**    | ArcGIS Pro • ArcGIS Online • ArcGIS StoryMaps • spatial analysis (coral reef & biodiversity mapping)                                        |
 | **Databases**        | MySQL (3NF schema design, multi-table joins) • Database Design (1,171 patients, 53K encounters) • Common Table Expressions (CTEs), correlated subqueries, temporal analysis |
 | **Development**      | Git (version control) • Jupyter (interactive analysis) • RMarkdown (reproducible research, automated reporting)                             |
 
@@ -72,9 +85,9 @@ These projects demonstrate my data science capabilities across healthcare analyt
 
 ## What I'm Looking For
 
-Open to data work where biology and analytics overlap.
+Open to data work where domain knowledge and analytics overlap.
 
-**Domain interests**: Life sciences, healthcare, environmental & ecological data, and climate & conservation, though I'm equally at home learning a new domain from scratch.
+**Domain interests**: Life sciences, healthcare, environmental & ecological data, spatial/GIS, and climate & conservation, though I'm equally at home learning a new domain from scratch.
 
 **What I bring**:
 
