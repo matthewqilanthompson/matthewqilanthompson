@@ -4,13 +4,13 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthewqilanthompson.work@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matthewqilanthompson/Data-Science-Portfolio)
 
-## Data Science · Biology Background · R · Python · SQL · Spatial/GIS · M.S. University of Arizona
+## Data Science · Biology Background · SQL · R · Python · Spatial/GIS · M.S. University of Arizona
 
-My background is hands-on quantitative research with strong fluency in R, Python, and SQL across the full data lifecycle: turning messy data into clear findings, writing automation scripts, and making workflows more efficient.
+I'm a data person with a biology research background, and what I do best is take a messy dataset and put it in order: cleaning it, checking it, and making sure it's trustworthy before anyone makes a decision on it. I work mostly in SQL and R (with some Python), and I like the careful, behind-the-scenes part of the job, catching the error nobody else caught, getting the details right, and being the person a team can hand a tangled dataset to and trust to get it right. That's just how I work.
 
 I also have a spatial/GIS side, presenting ArcGIS work on coral reefs and biodiversity at two national GIS conferences.
 
-I enjoy building automations and writing scripts that make workflows more efficient, whether that's data-handling scripts, machine learning (ML) experiments, or personal productivity tools.
+I enjoy work where getting the data right actually matters, especially in research and healthcare.
 
 ---
 
@@ -91,9 +91,10 @@ Open to data work where domain knowledge and analytics overlap.
 
 **What I bring**:
 
-- **Technical breadth**: Python, R, and SQL across the data lifecycle, covering ML, statistics, database design, visualization, and automation
+- **Data-integrity instinct**: I check before I trust, cleaning, validating, and reconciling data so the results hold up. On one project I caught a hidden leakage error inflating my model and re-validated until it held.
+- **Technical breadth**: SQL, R, and Python across the data lifecycle, covering database design, statistics, ML, and visualization
 - **Research instinct**: Biology background gives me a strong base for hypothesis-driven analysis in unfamiliar domains
-- **Proven results**: ML model at ROC AUC 0.858 on a held-out test set (13th of 35 in a class competition; 0.901 / 5th on dev), 3NF database design over 53K patient encounters, statistical analyses spanning wildlife ecology to housing economics
+- **Proven results**: 3NF database design over 53K patient encounters, an ML model at ROC AUC 0.858 on a held-out test set (13th of 35 in a class competition; 0.901 / 5th on dev), and statistical analyses spanning wildlife ecology to housing economics
 
 ---
 
