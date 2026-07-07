@@ -6,7 +6,7 @@
 
 ## Data Science · Biology Background · SQL · R · Python · Spatial/GIS · M.S. University of Arizona
 
-I'm a data person with a biology research background, and what I do best is take a messy dataset and put it in order: cleaning it, checking it, and making sure it's trustworthy before anyone makes a decision on it. I work mostly in SQL and R (with some Python), and I like the careful, behind-the-scenes part of the job, catching the error nobody else caught, getting the details right, and being the person a team can hand a tangled dataset to and trust to get it right. That's just how I work.
+I'm a data person with a biology research background, and what I do best is take a messy dataset and put it in order: cleaning it, checking it, and making sure it's trustworthy before anyone makes a decision on it. I work across SQL, R, and Python, and what I do is build the analysis and make sure it holds up: catching the error nobody else caught, getting the details right, and being the person a team can hand a tangled dataset to and trust to get it right. That's just how I work.
 
 I also have a spatial/GIS side, presenting ArcGIS work on coral reefs and biodiversity at two national GIS conferences.
 
