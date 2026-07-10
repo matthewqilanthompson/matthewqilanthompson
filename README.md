@@ -59,6 +59,16 @@ These projects demonstrate my data science capabilities across healthcare analyt
 
 ---
 
+## Software & Automation
+
+Beyond analytics, I build and ship software:
+
+| Project | What it is | Tech |
+| ------- | ---------- | ---- |
+| [**AI Grammar Bot**](https://github.com/matthewqilanthompson/ai-grammar-bot) | A production Discord bot that gives context-aware grammar feedback via the OpenAI API — with cost-monitored AI usage, MongoDB persistence (JSON fallback), per-user rate limiting, sensitive-info filtering, and 98 passing tests. Re-architected from Python to Node.js. | Node.js, discord.js, MongoDB, OpenAI, Jest |
+
+---
+
 ## Technical Skills
 
 | Category             | Tools & Applications                                                                                                                        |
