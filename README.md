@@ -4,13 +4,11 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthewqilanthompson.work@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matthewqilanthompson/Data-Science-Portfolio)
 
-## Data Science · Biology Background · SQL · R · Python · Spatial/GIS · M.S. University of Arizona
+## Data Analyst · SQL · Python · R · M.S. Data Science, University of Arizona
 
-I'm a data person with a biology research background, and what I do best is take a messy dataset and put it in order: cleaning it, checking it, and making sure it's trustworthy before anyone makes a decision on it. I work across SQL, R, and Python, and what I do is build the analysis and make sure it holds up: catching the error nobody else caught, getting the details right, and being the person a team can hand a tangled dataset to and trust to get it right. That's just how I work.
+I'm a data analyst. I design databases and write the SQL that turns messy, large datasets into answers a business can act on, and I check the data before I trust it — cleaning, validating, and reconciling it so the results hold up. On one project an early model came back almost perfect; instead of taking the win I went looking for the mistake, found leaked answer data, and re-validated until the number was real.
 
-I also have a spatial/GIS side, presenting ArcGIS work on coral reefs and biodiversity at two national GIS conferences.
-
-I enjoy work where getting the data right actually matters, especially in research and healthcare.
+I also build predictive models and ship production software. My background is in biology research, which is where I learned to work hypothesis-first in an unfamiliar domain — but the analysis travels, and I'm not limited to life sciences.
 
 ---
 
@@ -50,8 +48,8 @@ These projects demonstrate my data science capabilities across healthcare analyt
 
 | Project                                                                                                                                                   | What I Applied                                                                                                                                      | Tech                 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| [**Healthcare Analytics with SQL**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/database-systems/sql-nosql-databases-info579) | Designed third normal form (3NF) database schemas across 1,171 patients and 53,346 encounters (67MB synthetic EHR data, 6 entities), then wrote 9 documented analytical reports against 5 business objectives — profitability, clinical quality, provider utilization, readmission reduction, and expansion — using multi-table joins, CTEs, correlated subqueries, and temporal analysis. Surfaced a provider workload imbalance (busiest handled 3,000+ encounters vs. under 2,000 for peers). End-to-end reproducible via Docker. | MySQL, SQL, Python |
 | [**Healthcare Readmission Prediction**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/data-science/foundation-of-data-science) | Built a Random Forest classifier for 30-day hospital readmission risk on 587,801 synthetic electronic health record (EHR) training rows; scored ROC AUC 0.858 on the final held-out test (13th of 35), holding from 0.901 on the dev-phase leaderboard (5th of 40), after comparing 9 algorithms. ROC AUC is a classifier ranking score where 1.0 is perfect. | Python, Scikit-learn |
-| [**Healthcare Analytics with SQL**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/database-systems/sql-nosql-databases-info579) | Designed third normal form (3NF) database schemas and wrote 9 documented analytical SQL reports (plus 5 schema-defined) across 1,171 patients and 53,346 encounters; end-to-end reproducible via Docker | MySQL, Python |
 | [**Trait-Based Prediction of Animal Taxa**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/data-science/data-mining-final-project) | Used SHAP (SHapley Additive exPlanations), a machine-learning model-explainability technique, to identify evolutionary traits predicting animal taxonomy across 1,087 families | Python, SHAP |
 | [**Data Visualization Portfolio**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/r-analytics/data-visualization-portfolio) | Built statistical visualizations across wildlife ecology, occupational safety, and housing economics using ggplot2, including alluvial diagrams and faceted area plots | R, ggplot2 |
 | [**Multi-Label Emotion Classification**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/deep-learning/emotion-classification-info557) | Built a 5-seed ensemble of 1D convolutional neural networks (Conv1D / CNN) for 14-class GoEmotions text classification; placed 8th/15 on test set with an F1-score of 0.672 (a balanced precision/recall metric where 1.0 is perfect) and the 3rd-tightest dev-to-test gap on the leaderboard | Python, Keras, Hugging Face |
@@ -73,13 +71,14 @@ Beyond analytics, I build and ship software:
 
 | Category             | Tools & Applications                                                                                                                        |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**        | Python (ML pipelines, data processing) • R (statistical analysis, visualization) • SQL (complex queries, database design)                   |
-| **Machine Learning** | Scikit-learn (classification, model comparison) • Random Forest (readmission prediction, ROC AUC 0.858 on held-out test, 0.901 on dev) • SHAP / SHapley Additive exPlanations (model explainability) |
-| **Data Analysis**    | Pandas (EHR data processing, 587K+ training rows / 125K+ dev rows) • NumPy (numerical computing) • tidyverse (data transformation, reproducible workflows)      |
-| **Visualization**    | ggplot2 (advanced plots, alluvial diagrams) • Matplotlib (data visualization)                                                               |
+| **SQL & Databases**  | SQL (multi-table joins, aggregations, CTEs, correlated subqueries, temporal analysis) • MySQL • 3NF schema design (1,171 patients, 53K encounters) • ETL • MongoDB (NoSQL) |
+| **Data Quality**     | Data validation & reconciliation • integrity checks (orphan-record detection) • data-leakage detection • cross-validation of measurement methods |
+| **Languages**        | SQL • Python (pandas, NumPy, scikit-learn) • R (tidyverse) • JavaScript / Node.js                                                            |
+| **Reporting & Visualization** | Excel (lookups, pivot tables) • Tableau (coursework) • ggplot2 (advanced plots, alluvial diagrams) • Matplotlib • analytical report writing |
+| **Statistics**       | Linear regression • ANOVA • hypothesis testing • experimental design • repeatability analysis                                                |
+| **Machine Learning** | Scikit-learn (classification, model comparison) • Random Forest (readmission prediction, ROC AUC 0.858 on held-out test, 0.901 on dev) • SHAP / SHapley Additive exPlanations (model explainability) • NLP / transformer fine-tuning (RoBERTa) |
+| **Development**      | Git • Docker • Jupyter • RMarkdown / Quarto (reproducible research, automated reporting)                                                     |
 | **Spatial / GIS**    | ArcGIS Pro • ArcGIS Online • ArcGIS StoryMaps • spatial analysis (coral reef & biodiversity mapping)                                        |
-| **Databases**        | MySQL (3NF schema design, multi-table joins) • Database Design (1,171 patients, 53K encounters) • Common Table Expressions (CTEs), correlated subqueries, temporal analysis |
-| **Development**      | Git (version control) • Jupyter (interactive analysis) • RMarkdown (reproducible research, automated reporting)                             |
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
