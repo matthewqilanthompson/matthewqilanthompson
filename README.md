@@ -103,7 +103,7 @@ Open to data work where domain knowledge and analytics overlap.
 - **Data-integrity instinct**: I check before I trust, cleaning, validating, and reconciling data so the results hold up. On one project I caught a hidden leakage error inflating my model and re-validated until it held.
 - **Technical breadth**: SQL, R, and Python across the data lifecycle, covering database design, statistics, ML, and visualization
 - **Research instinct**: Biology background gives me a strong base for hypothesis-driven analysis in unfamiliar domains
-- **Proven results**: 3NF database design over 53K patient encounters, an ML model at ROC AUC 0.858 on a held-out test set (0.901 on dev), and statistical analyses spanning wildlife ecology to housing economics
+- **Track record**: 3NF database design over 53K patient encounters, an ML model at ROC AUC 0.858 on a held-out test set (0.901 on dev), and statistical analyses spanning wildlife ecology to housing economics
 
 ---
 
