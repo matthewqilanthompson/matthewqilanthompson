@@ -6,9 +6,9 @@
 
 ## Data Analyst · SQL · Python · R · M.S. Data Science, University of Arizona
 
-I'm a data analyst. I design databases and write the SQL that turns messy, large datasets into answers a business can act on, and I check the data before I trust it — cleaning, validating, and reconciling it so the results hold up. On one project an early model came back almost perfect; instead of taking the win I went looking for the mistake, found leaked answer data, and re-validated until the number was real.
+I'm a data analyst. I design databases and write the SQL that turns messy, large datasets into answers a business can act on, and I check the data before I trust it, cleaning, validating, and reconciling it so the results hold up. On one project an early model came back almost perfect; instead of taking the win I went looking for the mistake, found leaked answer data, and re-validated until the number was real.
 
-I also build predictive models and ship production software. My background is in biology research, which is where I learned to work hypothesis-first in an unfamiliar domain — but the analysis travels, and I'm not limited to life sciences.
+I also build predictive models and ship production software. My background is in biology research, which is where I learned to work hypothesis-first in an unfamiliar domain, but the analysis travels, and I'm not limited to life sciences.
 
 ---
 
@@ -48,7 +48,7 @@ These projects demonstrate my data science capabilities across healthcare analyt
 
 | Project                                                                                                                                                   | What I Applied                                                                                                                                      | Tech                 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| [**Healthcare Analytics with SQL**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/database-systems/sql-nosql-databases-info579) | Designed third normal form (3NF) database schemas across 1,171 patients and 53,346 encounters (~65MB synthetic EHR data, 6 entities), then wrote 6 documented analytical reports against 5 business objectives — profitability, clinical quality, provider utilization, readmission reduction, and expansion — using multi-table joins, CTEs, correlated subqueries, and temporal analysis. Surfaced a provider workload imbalance (busiest handled 3,000+ encounters vs. under 2,000 for peers). End-to-end reproducible via Docker. | MySQL, SQL, Python |
+| [**Healthcare Analytics with SQL**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/database-systems/sql-nosql-databases-info579) | Designed third normal form (3NF) database schemas across 1,171 patients and 53,346 encounters (~65MB synthetic EHR data, 6 entities), then wrote 6 documented analytical reports against 5 business objectives (profitability, clinical quality, provider utilization, readmission reduction, and expansion) using multi-table joins, CTEs, correlated subqueries, and temporal analysis. Surfaced a provider workload imbalance (busiest handled 3,000+ encounters vs. under 2,000 for peers). End-to-end reproducible via Docker. | MySQL, SQL, Python |
 | [**Healthcare Readmission Prediction**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/data-science/foundation-of-data-science) | Built a Random Forest classifier for 30-day hospital readmission risk on 587,801 synthetic electronic health record (EHR) training rows; scored ROC AUC 0.858 on the final held-out test, holding from 0.901 on the dev-phase leaderboard, after comparing 9 algorithms. ROC AUC is a classifier ranking score where 1.0 is perfect. | Python, Scikit-learn |
 | [**Trait-Based Prediction of Animal Taxa**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/data-science/data-mining-final-project) | Used SHAP (SHapley Additive exPlanations), a machine-learning model-explainability technique, to identify evolutionary traits predicting animal taxonomy across 1,087 families | Python, SHAP |
 | [**Data Visualization Portfolio**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/r-analytics/data-visualization-portfolio) | Built statistical visualizations across wildlife ecology, occupational safety, and housing economics using ggplot2, including alluvial diagrams and faceted area plots | R, ggplot2 |
@@ -63,7 +63,7 @@ Beyond analytics, I build and ship software:
 
 | Project | What it is | Tech |
 | ------- | ---------- | ---- |
-| [**AI Grammar Bot**](https://github.com/matthewqilanthompson/ai-grammar-bot) | A production Discord bot that gives context-aware grammar feedback via the OpenAI API — with cost-monitored AI usage, MongoDB persistence (JSON fallback), per-user rate limiting, sensitive-info filtering, and 98 passing tests. Re-architected from Python to Node.js. | Node.js, discord.js, MongoDB, OpenAI, Jest |
+| [**AI Grammar Bot**](https://github.com/matthewqilanthompson/ai-grammar-bot) | A production Discord bot that gives context-aware grammar feedback via the OpenAI API, with cost-monitored AI usage, MongoDB persistence (JSON fallback), per-user rate limiting, sensitive-info filtering, and 98 passing tests. Re-architected from Python to Node.js. | Node.js, discord.js, MongoDB, OpenAI, Jest |
 
 ---
 
