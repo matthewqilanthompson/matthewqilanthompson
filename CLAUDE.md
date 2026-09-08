@@ -11,3 +11,9 @@ correct branch/repo), `bf62a5a` (remove a discord-bots link after that repo went
 editing a project description or number here, check it against the actual
 `web-portfolio/github/Data-Science-Portfolio` repo and LinkedIn — don't restate from memory, and when
 a linked repo's visibility/branch/name changes, update or remove the link in the same pass.
+
+## Standard procedure
+
+This is a GitHub profile README, no build/CI. Before any edit: open `Data-Science-Portfolio` directly
+and re-check the specific claim, and check whether every linked repo is still public/on the branch
+named. Commit and push (this README only takes effect once pushed — it's what renders on the profile).
