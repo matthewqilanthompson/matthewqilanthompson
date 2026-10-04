@@ -8,7 +8,7 @@
 
 I'm a data analyst. I design databases and write the SQL that turns messy, large datasets into answers a business can act on, and I check the data before I trust it, cleaning, validating, and reconciling it so the results hold up. On one project an early model came back almost perfect; instead of taking the win I went looking for the mistake, found leaked answer data, and re-validated until the number was real.
 
-I also build predictive models and ship production software. My background is in biology research, which is where I learned to work hypothesis-first in an unfamiliar domain, but the analysis travels, and I'm not limited to life sciences.
+I also build predictive models and ship software. My background is in biology research, which is where I learned to work hypothesis-first in an unfamiliar domain, but the analysis travels, and I'm not limited to life sciences.
 
 ---
 
@@ -63,7 +63,7 @@ Beyond analytics, I build and ship software:
 
 | Project | What it is | Tech |
 | ------- | ---------- | ---- |
-| [**AI Grammar Bot**](https://github.com/matthewqilanthompson/ai-grammar-bot) | A production Discord bot that gives context-aware grammar feedback via the OpenAI API, with cost-monitored AI usage, MongoDB persistence (JSON fallback), per-user rate limiting, sensitive-info filtering, and 98 passing tests. Re-architected from Python to Node.js. | Node.js, discord.js, MongoDB, OpenAI, Jest |
+| [**AI Grammar Bot**](https://github.com/matthewqilanthompson/ai-grammar-bot) | A Discord bot that gives context-aware grammar feedback via the OpenAI API, with cost-monitored AI usage, MongoDB persistence (JSON fallback), per-user rate limiting, sensitive-info filtering, and 98 passing tests. Re-architected from Python to Node.js. | Node.js, discord.js, MongoDB, OpenAI, Jest |
 
 ---
 
@@ -71,14 +71,13 @@ Beyond analytics, I build and ship software:
 
 | Category             | Tools & Applications                                                                                                                        |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **SQL & Databases**  | SQL (multi-table joins, aggregations, CTEs, correlated subqueries, temporal analysis) • MySQL • 3NF schema design (1,171 patients, 53K encounters) • ETL • MongoDB (NoSQL) |
+| **SQL & Databases**  | SQL (multi-table joins, aggregations, CTEs, correlated subqueries, temporal analysis) • MySQL • 3NF schema design (1,171 patients, 53K encounters) • ETL |
 | **Data Quality**     | Data validation & reconciliation • integrity checks (orphan-record detection) • data-leakage detection • cross-validation of measurement methods |
 | **Languages**        | SQL • Python (pandas, NumPy, scikit-learn) • R (tidyverse) • JavaScript / Node.js                                                            |
 | **Reporting & Visualization** | Excel (lookups, pivot tables) • Tableau (coursework) • ggplot2 (advanced plots, alluvial diagrams) • Matplotlib • analytical report writing |
 | **Statistics**       | Linear regression • ANOVA • hypothesis testing • experimental design • repeatability analysis                                                |
 | **Machine Learning** | Scikit-learn (classification, model comparison) • Random Forest (readmission prediction, ROC AUC 0.858 on held-out test, 0.901 on dev) • SHAP / SHapley Additive exPlanations (model explainability) • NLP / transformer fine-tuning (RoBERTa) |
 | **Development**      | Git • Docker • Jupyter • RMarkdown / Quarto (reproducible research, automated reporting)                                                     |
-| **Spatial / GIS**    | ArcGIS Pro • ArcGIS Online • ArcGIS StoryMaps • spatial analysis (coral reef & biodiversity mapping)                                        |
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
