@@ -4,11 +4,11 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthewqilanthompson.work@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matthewqilanthompson/Data-Science-Portfolio)
 
-## Data Analyst · SQL · Python · R · M.S. Data Science, University of Arizona
+## M.S. Data Science, University of Arizona · SQL · Python · R
 
-I'm a data analyst. I design databases and write the SQL that turns messy, large datasets into answers a business can act on, and I check the data before I trust it, cleaning, validating, and reconciling it so the results hold up. On one project an early model came back almost perfect; instead of taking the win I went looking for the mistake, found leaked answer data, and re-validated until the number was real.
+I'm a data science graduate (M.S., University of Arizona, May 2026). I design databases and write the SQL that turns messy, large datasets into answers a business can act on, and I clean, validate, and reconcile the data before analyzing it. On one project an early model came back almost perfect; instead of taking the win I went looking for the mistake, found leaked answer data, and re-validated until the number was real.
 
-I also build predictive models and ship software. My background is in biology research, which is where I learned to work hypothesis-first in an unfamiliar domain, but the analysis travels, and I'm not limited to life sciences.
+I also build predictive models and small software tools. My background is biology research, and I'm open to data work in other fields too.
 
 ---
 
@@ -25,7 +25,7 @@ I also build predictive models and ship software. My background is in biology re
 
 | Role | Organization | Focus |
 | ---- | ------------ | ----- |
-| Research Intern | Oklahoma State University, National Science Foundation (NSF) ON-RaMP postbaccalaureate research training program | 1 year of independent research: statistical modeling in R (regression, analysis of variance, repeatability) on grasshopper coloration & behavior; built a Python automation script; presented at the 2024 Society for Integrative and Comparative Biology (SICB) conference |
+| Post-Baccalaureate Research Intern | Oklahoma State University, National Science Foundation (NSF) ON-RaMP postbaccalaureate research training program | 1 year of full-time research: statistical modeling in R (regression, analysis of variance, repeatability) on grasshopper coloration & behavior; built a Python automation script; presented at the 2024 Society for Integrative and Comparative Biology (SICB) conference |
 | Summer Research Intern, NSF Research Experiences for Undergraduates (REU) | Maryland Sea Grant | Selected from 400+ applicants; quantified marine microbial abundance across depth gradients in R & Excel; extended into an Honors thesis |
 
 *Full work history on [LinkedIn](https://www.linkedin.com/in/matthewqilanthompson/).*
@@ -48,7 +48,7 @@ These projects demonstrate my data science capabilities across healthcare analyt
 
 | Project                                                                                                                                                   | What I Applied                                                                                                                                      | Tech                 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| [**Healthcare Analytics with SQL**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/database-systems/sql-nosql-databases-info579) | Designed third normal form (3NF) database schemas across 1,171 patients and 53,346 encounters (~65MB synthetic EHR data, 6 entities), then wrote 6 documented analytical reports against 5 business objectives (profitability, clinical quality, provider utilization, readmission reduction, and expansion) using multi-table joins, CTEs, correlated subqueries, and temporal analysis. Surfaced a provider workload imbalance (busiest handled 3,000+ encounters vs. under 2,000 for peers). End-to-end reproducible via Docker. | MySQL, SQL, Python |
+| [**Healthcare Analytics with SQL**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/database-systems/sql-nosql-databases-info579) | Designed third normal form (3NF) database schemas across 1,171 patients and 53,346 encounters (~65MB synthetic EHR data; 8 tables built from 6 source files), then wrote 6 documented analytical reports against 5 business objectives (profitability, clinical quality, provider utilization, readmission reduction, and expansion) using multi-table joins, CTEs, correlated subqueries, and temporal analysis. Surfaced a provider workload imbalance (busiest handled 3,000+ encounters vs. under 2,000 for peers). End-to-end reproducible via Docker. | MySQL, SQL, Python |
 | [**Healthcare Readmission Prediction**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/data-science/foundation-of-data-science) | Built a Random Forest classifier for 30-day hospital readmission risk on 587,801 synthetic electronic health record (EHR) training rows; scored ROC AUC 0.858 on the final held-out test, holding from 0.901 in the dev phase, after comparing 9 algorithms. ROC AUC is a classifier ranking score where 1.0 is perfect. | Python, Scikit-learn |
 | [**Trait-Based Prediction of Animal Taxa**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/data-science/data-mining-final-project) | Used SHAP (SHapley Additive exPlanations), a machine-learning model-explainability technique, to identify evolutionary traits predicting animal taxonomy across 1,087 families | Python, SHAP |
 | [**Data Visualization Portfolio**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/r-analytics/data-visualization-portfolio) | Built statistical visualizations across wildlife ecology, occupational safety, and housing economics using ggplot2, including alluvial diagrams and faceted area plots | R, ggplot2 |
@@ -59,7 +59,7 @@ These projects demonstrate my data science capabilities across healthcare analyt
 
 ## Software & Automation
 
-Beyond analytics, I build and ship software:
+Software projects:
 
 | Project | What it is | Tech |
 | ------- | ---------- | ---- |
@@ -72,9 +72,9 @@ Beyond analytics, I build and ship software:
 | Category             | Tools & Applications                                                                                                                        |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | **SQL & Databases**  | SQL (multi-table joins, aggregations, CTEs, correlated subqueries, temporal analysis) • MySQL • 3NF schema design (1,171 patients, 53K encounters) • ETL |
-| **Data Quality**     | Data validation & reconciliation • integrity checks (orphan-record detection) • data-leakage detection • cross-validation of measurement methods |
+| **Data Quality**     | Data validation & reconciliation • missing-link checks • data-leakage detection • cross-validation of measurement methods |
 | **Languages**        | SQL • Python (pandas, NumPy, scikit-learn) • R (tidyverse) • JavaScript / Node.js                                                            |
-| **Reporting & Visualization** | Excel (lookups, pivot tables) • Tableau (coursework) • ggplot2 (advanced plots, alluvial diagrams) • Matplotlib • analytical report writing |
+| **Reporting & Visualization** | Excel (research use) • Tableau (coursework) • ggplot2 (advanced plots, alluvial diagrams) • Matplotlib • analytical report writing |
 | **Statistics**       | Linear regression • ANOVA • hypothesis testing • experimental design • repeatability analysis                                                |
 | **Machine Learning** | Scikit-learn (classification, model comparison) • Random Forest (readmission prediction, ROC AUC 0.858 on held-out test, 0.901 on dev) • SHAP / SHapley Additive exPlanations (model explainability) • NLP / transformer fine-tuning (RoBERTa) |
 | **Development**      | Git • Docker • Jupyter • RMarkdown / Quarto (reproducible research, automated reporting)                                                     |
@@ -95,14 +95,14 @@ Beyond analytics, I build and ship software:
 
 Open to data work where domain knowledge and analytics overlap.
 
-**Domain interests**: Life sciences, healthcare, environmental & ecological data, spatial/GIS, and climate & conservation, though I'm equally at home learning a new domain from scratch.
+**Domain interests**: Life sciences, healthcare, environmental & ecological data, spatial/GIS, and climate & conservation, and I'm open to new domains.
 
 **What I bring**:
 
-- **Data-integrity instinct**: I check before I trust, cleaning, validating, and reconciling data so the results hold up. On one project I caught a hidden leakage error inflating my model and re-validated until it held.
+- **Data integrity**: cleaning, validating, and reconciling data before analysis. On one project I caught a leakage error inflating my model and re-validated until it held.
 - **Technical breadth**: SQL, R, and Python across the data lifecycle, covering database design, statistics, ML, and visualization
-- **Research instinct**: Biology background gives me a strong base for hypothesis-driven analysis in unfamiliar domains
-- **Track record**: 3NF database design over 53K patient encounters, an ML model at ROC AUC 0.858 on a held-out test set (0.901 on dev), and statistical analyses spanning wildlife ecology to housing economics
+- **Research background**: a year of full-time research at Oklahoma State University (NSF ON-RaMP) and a summer NSF REU internship
+- **Examples**: 3NF database design over 53K patient encounters, an ML model at ROC AUC 0.858 on a held-out test set (0.901 on dev), and statistical analyses spanning wildlife ecology to housing economics
 
 ---
 
