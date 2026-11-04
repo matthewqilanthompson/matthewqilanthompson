@@ -6,7 +6,7 @@
 
 ## M.S. Data Science, University of Arizona · SQL · Python · R
 
-I'm a data science graduate (M.S., University of Arizona, May 2026). I design databases and write the SQL that turns messy, large datasets into answers a business can act on, and I clean, validate, and reconcile the data before analyzing it. On one project an early model came back almost perfect; instead of taking the win I went looking for the mistake, found leaked answer data, and re-validated until the number was real.
+I'm a data science graduate (M.S., University of Arizona, May 2026). I design databases and write the SQL that turns messy, large datasets into answers a business can act on, and I clean, validate, and reconcile the data before analyzing it. On one project an early model came back with a perfect score; instead of taking the win I went looking for the mistake, found leaked answer data, and re-validated until the number was real.
 
 I also build predictive models and small software tools. My background is biology research, and I'm open to data work in other fields too.
 
@@ -25,7 +25,7 @@ I also build predictive models and small software tools. My background is biolog
 
 | Role | Organization | Focus |
 | ---- | ------------ | ----- |
-| Post-Baccalaureate Research Intern | Oklahoma State University, National Science Foundation (NSF) ON-RaMP postbaccalaureate research training program | 1 year of full-time research: statistical modeling in R (regression, analysis of variance, repeatability) on grasshopper coloration & behavior; built a Python automation script; presented at the 2024 Society for Integrative and Comparative Biology (SICB) conference |
+| Post-Baccalaureate Research Intern | Oklahoma State University, National Science Foundation (NSF) ON-RaMP postbaccalaureate research training program | 1 year of full-time research: statistical modeling in R (regression, analysis of variance, repeatability) on grasshopper coloration & behavior; built a Python automation script; presented at the 2024 Society for Integrative and Comparative Biology (SICB) conference; co-author of a manuscript under peer review |
 | Summer Research Intern, NSF Research Experiences for Undergraduates (REU) | Maryland Sea Grant | Selected from 400+ applicants; quantified marine microbial abundance across depth gradients in R & Excel; extended into an Honors thesis |
 
 *Full work history on [LinkedIn](https://www.linkedin.com/in/matthewqilanthompson/).*
@@ -63,7 +63,7 @@ Software projects:
 
 | Project | What it is | Tech |
 | ------- | ---------- | ---- |
-| [**AI Grammar Bot**](https://github.com/matthewqilanthompson/ai-grammar-bot) | A Discord bot that gives context-aware grammar feedback via the OpenAI API, with cost-monitored AI usage, MongoDB persistence (JSON fallback), per-user rate limiting, sensitive-info filtering, and 98 passing tests. Re-architected from Python to Node.js. | Node.js, discord.js, MongoDB, OpenAI, Jest |
+| [**AI Grammar Bot**](https://github.com/matthewqilanthompson/ai-grammar-bot) (finished project, archived) | A Discord bot that gives context-aware grammar feedback via the OpenAI API, with cost-monitored AI usage, MongoDB persistence (JSON fallback), per-user rate limiting, sensitive-info filtering, and 98 passing tests. Re-architected from Python to Node.js. | Node.js, discord.js, MongoDB, OpenAI, Jest |
 
 ---
 
@@ -102,7 +102,7 @@ Open to data work where domain knowledge and analytics overlap.
 - **Data integrity**: cleaning, validating, and reconciling data before analysis. On one project I caught a leakage error inflating my model and re-validated until it held.
 - **Technical breadth**: SQL, R, and Python across the data lifecycle, covering database design, statistics, ML, and visualization
 - **Research background**: a year of full-time research at Oklahoma State University (NSF ON-RaMP) and a summer NSF REU internship
-- **Examples**: 3NF database design over 53K patient encounters, an ML model at ROC AUC 0.858 on a held-out test set (0.901 on dev), and statistical analyses spanning wildlife ecology to housing economics
+- **Examples**: 3NF database design over 53K synthetic patient encounters, an ML model at ROC AUC 0.858 on a held-out test set (0.901 on dev), and statistical analyses spanning wildlife ecology to housing economics
 
 ---
 
